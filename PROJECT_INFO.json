@@ -1,0 +1,8 @@
+{
+  "name": "AI CAR CLIP SORTER PRO ULTIMATE",
+  "version": "1.0.0-source",
+  "platform": "macOS Intel",
+  "minimum_target": "macOS 11.0",
+  "build": "GitHub Actions -> DMG",
+  "note": "Source package; DMG must be produced by GitHub Actions and tested on target Mac."
+}
